@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @nexus192
-- 👀 I’m interested in IT-technology
-- 🌱 I’m currently learnin python
-- and I want to become a very cool programmer
+programer
