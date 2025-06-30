@@ -25,17 +25,6 @@ Passionate about scalable and fault‑tolerant systems, modern C++, and backend 
 
 ---
 
-## 📦 Projects & experience
-- Created **desktop apps** with Qt: Snake, Tetris, and a simple 3D Viewer
-- Developed **custom C++ libraries**: String, Matrix, templated data structures
-- Built a **messenger** with client-server architecture using Nginx, Boost.Asio, Qt GUI, and Flask backend
-- Web app: asynchronous **Tic-Tac-Toe** game on Flask, focusing on scalability and fault tolerance
-- Worked with **Vulkan API** for 3D visualization
-- Set up **PostgreSQL in Docker**, configured networks between VMs
-- Explored **network protocols** (TCP/IP stack, DHCP, SSH, VPN)
-
----
-
 ## ⚙️ Tools & Skills
 - Linux/Unix, Git, VS Code
 - Algorithms & Data Structures, OOP, template metaprogramming
